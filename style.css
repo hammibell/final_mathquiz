@@ -1,0 +1,35 @@
+.One{
+    background-color:rgb(255, 255, 255);
+    margin:50px;
+    padding:50px;
+    border-radius:50px;
+
+}
+
+body{
+    
+    text-align:center;
+
+    
+}
+
+.cool{
+    width:400px;
+    height:20px;
+    border-color:aqua;
+
+}
+
+#button{
+    padding:20px;
+    background-color:azure;
+    border-color:black;
+    border-radius:50px;
+    
+}
+
+#label{
+    font-size:30px;
+    
+}
+
